@@ -12,7 +12,8 @@ Diego Velasquez | Monetización de aplicaciones con Android  | https://speakerde
 Pablo Johnson - Android Dev Perú | Architecture Components  | https://speakerdeck.com/pjohnson/android-architecture-components
 Yury Camacho - GDG Cochabamba | Kotlin for Android Developers  | https://speakerdeck.com/camachoyury/kotlin-for-android-developers 
 Sergio Infante | Firebase Cloud Message con Django | https://speakerdeck.com/neosergio/firebase-cloud-messaging-plus-django-una-implementacion-minimalista 
-Annie Azaña Laboratoria  | PWA/Angular   | https://docs.google.com/presentation/d/14Zl4eOC7Ud6DkXTdhf9lEyJL4tjT5mM_RjMf_qEY0ps/edit?usp=sharing
+José Manuel Rios Vega | Realm desde Android | https://docs.google.com/presentation/d/1xDXqGaI7crEn_s66Ey3r--ePpW4sbUuz0z2Bvpcg2Yc/edit?usp=sharing
+Annie Azaña Laboratoria  | PWA/Angular | https://docs.google.com/presentation/d/14Zl4eOC7Ud6DkXTdhf9lEyJL4tjT5mM_RjMf_qEY0ps/edit?usp=sharing
 Melissa Gave Miró Quesada - GBG Lima| Nuevas tecnologias en google io 17 | https://docs.google.com/presentation/d/1dKq-IopVplcUDGzY4V6M3_8uJsrKLjzfd787PMZcXuc/edit?usp=sharing
 Dante Gomez - GDG Juliaca | Usando Google Cloud Platform  | https://drive.google.com/file/d/0B-EoJRSPZ4OKX1F1UXJFVzctamc/view?usp=sharing 
 Mario Inga - Docker Lima | Orchestration  of Containers with Docker Compose   | https://www.slideshare.net/mario21ic/gdg-lima-docker-compose 
